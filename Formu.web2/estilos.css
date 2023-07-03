@@ -1,0 +1,20 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+.producto{
+    background-color: aqua;
+    text-align: center;
+    margin: 10px;
+    border-color: black;
+}
+.resultado{
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap;
+}
+.imgproductos{
+    height: 150px;
+}
