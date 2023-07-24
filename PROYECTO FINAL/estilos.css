@@ -1,0 +1,76 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+.producto{
+    background-color: rgb(255, 255, 255);
+    border-style: dashed;
+    text-align: center;
+    border-width: 2px;
+    padding:210;
+    margin: 5px;
+    height: 250px;
+    border-color: rgb(150, 31, 31);
+
+}
+.resultado{
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap;
+}
+.imgproductos{
+    height: 150px;
+}
+#ahorita{
+    width: 320;
+    height: 600px;
+    border-radius: 20;
+    margin: 0;
+    float: left;
+}
+#imgmall{
+text-align: center;
+}
+
+.resultado {
+display: flex;
+flex-direction:row;
+flex-wrap: wrap;
+}
+.imgProducto{
+width: 150px;
+height: 190px;
+}
+#imgmall{
+text-align: center;
+}
+#duro{
+width: 900px;
+height: 600px;
+background-color:rgb(255, 250, 250);
+border-radius: 20px;
+margin: 0 auto;
+color: rgb(4, 4, 4);
+text-align:start;
+}
+#img2{
+text-align: center;
+}
+#ahorita{
+width: 320px;
+height: 600px;
+border-radius: 20px;
+margin: 0 auto;
+float: left;
+}
+#ahora22{
+width: 320px;
+height: 600px;
+border-radius: 20px;
+margin: 0 auto; 
+}
+#acabemos{
+float: right;
+}
